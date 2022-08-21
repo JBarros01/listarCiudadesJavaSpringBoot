@@ -14,7 +14,7 @@ public class ListarciudadesApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("Estoy fino");
-
+		System.out.println();
 	}
 
 }
